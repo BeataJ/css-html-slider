@@ -171,6 +171,8 @@ Slider Styles
 .slider {
   width: 85vw;
   max-width: var(--fixed-width);
+  margin: 0 auto;
+  margin-top: 5rem;
   /* background: red; */
   border: 2px solid red;
 }
