@@ -245,3 +245,11 @@ h4 {
   border-radius: 0.25rem;
   cursor: pointer;
 }
+
+.next-btn {
+  right: -0.5rem;
+}
+
+.prev-btn {
+  left: -0.5rem
+}
