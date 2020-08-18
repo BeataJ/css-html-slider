@@ -227,3 +227,9 @@ h4 {
   margin: 0 auto;
   letter-spacing: 1px;
 }
+
+.quote-icon {
+  font-size: 3rem;
+  margin-top: 2rem;
+  color: var(--clr-primary-5)
+}
