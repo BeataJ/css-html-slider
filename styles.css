@@ -176,5 +176,6 @@ Slider Styles
   text-align: center;
   padding: 1rem 0;
   /* background: red; */
-  border: 2px solid red;
+  /* border: 2px solid red; */
+  position: relative;
 }
