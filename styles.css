@@ -168,3 +168,9 @@ main {
 Slider Styles
 ===============
 */
+.slider {
+  width: 85vw;
+  max-width: var(--fixed-width);
+  /* background: red; */
+  border: 2px solid red;
+}
