@@ -179,3 +179,7 @@ Slider Styles
   /* border: 2px solid red; */
   position: relative;
 }
+
+.reviews {
+  margin-bottom: 4rem;
+}
