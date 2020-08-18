@@ -183,3 +183,9 @@ Slider Styles
 .reviews {
   margin-bottom: 4rem;
 }
+
+.reviews h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
