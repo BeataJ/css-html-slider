@@ -206,3 +206,10 @@ Slider Styles
   border: 1px solid var(--clr-grey-7);
   box-shadow: var(--dark-shadow);
 }
+
+h4 {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--clr-primary-5);
+  margin: .5rem 0;
+}
