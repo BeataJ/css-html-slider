@@ -189,3 +189,9 @@ Slider Styles
   align-items: center;
   justify-content: center;
 }
+
+.reviews span {
+  font-size: .85em;
+  color: var(--clr-primary-5);
+  margin-right: 1rem;
+}
