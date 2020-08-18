@@ -233,3 +233,15 @@ h4 {
   margin-top: 2rem;
   color: var(--clr-primary-5)
 }
+
+/* set buttons */
+.btn {
+  position: absolute;
+  top: 175px;
+  background: var(--clr-grey-5);
+  color: var(--clr-white);
+  padding: 0.25rem 0.35rem;
+  border: transparent;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
