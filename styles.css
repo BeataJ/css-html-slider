@@ -173,6 +173,8 @@ Slider Styles
   max-width: var(--fixed-width);
   margin: 0 auto;
   margin-top: 5rem;
+  text-align: center;
+  padding: 1rem 0;
   /* background: red; */
   border: 2px solid red;
 }
