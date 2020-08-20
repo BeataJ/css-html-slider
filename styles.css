@@ -272,3 +272,9 @@ h4 {
     font-size: 4rem;
   }
 }
+
+/* slider specific css */
+
+.slider-container {
+  display: flex;
+}
